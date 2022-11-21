@@ -1,0 +1,19 @@
+# GIT 
+## COMANDOS WINDOWS : 
+
+dir - lista de diretórios / pastas
+cd - navegue em uma pasta especifica 
+cls - limpar terminal
+TAB - função auto completar 
+mkdir - criar uma pasta 
+rmdir (nome da pasta) /s /q   - remover pasta/ repositório 
+git int - inicializar o repositório (criar)
+git add - mover para algum lugar 
+git commit 
+git status 
+
+#GIT BASH 
+## COMANDOS 
+
+openssl sha1 (nome do arquivo que deseja encontrar)
+
